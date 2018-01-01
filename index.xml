@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>epiclen</title>
-    <link>https://www.epiclen.com/</link>
+    <link>http://www.epiclen.com/</link>
     <description>Recent content on epiclen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:20:18 +0800</lastBuildDate>
     
-	<atom:link href="https://www.epiclen.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.epiclen.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello 2018</title>
-      <link>https://www.epiclen.com/post/hello_2018/</link>
+      <link>http://www.epiclen.com/post/hello_2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:20:18 +0800</pubDate>
       
-      <guid>https://www.epiclen.com/post/hello_2018/</guid>
+      <guid>http://www.epiclen.com/post/hello_2018/</guid>
       <description>2018 新的一年 新的开始 加油! 2017匆匆忙忙的过去了，仿佛他从来没有来过。2017是五味俱全的，心酸痛楚，开心欢笑，每个点滴都是值得细细品味。
 2018年我开始构建自己的主站，一点点将自己这些年的博客和笔记都移动到这里，一来可以重新品味过去获得知识的兴奋，二来可以重拾那些渐渐遗忘的知识，第三是将总结的经验，才过的坑，分享给别人，共同进步</description>
     </item>
