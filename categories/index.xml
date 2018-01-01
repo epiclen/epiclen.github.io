@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on epiclen</title>
-    <link>https://epiclen.github.io/categories/</link>
+    <link>https://www.epiclen.com/categories/</link>
     <description>Recent content in Categories on epiclen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://epiclen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.epiclen.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Edward</title>
-      <link>https://epiclen.github.io/categories/edward/</link>
+      <link>https://www.epiclen.com/categories/edward/</link>
       <pubDate>Mon, 01 Jan 2018 00:20:18 +0800</pubDate>
       
-      <guid>https://epiclen.github.io/categories/edward/</guid>
+      <guid>https://www.epiclen.com/categories/edward/</guid>
       <description></description>
     </item>
     
