@@ -6,10 +6,21 @@
     <description>Recent content on epiclen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:20:18 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 20:47:48 +0800</lastBuildDate>
     
 	<atom:link href="http://www.epiclen.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://www.epiclen.com/about/</link>
+      <pubDate>Mon, 01 Jan 2018 20:47:48 +0800</pubDate>
+      
+      <guid>http://www.epiclen.com/about/</guid>
+      <description>喜欢技术，喜欢专研，乐在其中.
+QQ: 372865385
+微信:Edward_Chaw</description>
+    </item>
     
     <item>
       <title>Hello 2018</title>
