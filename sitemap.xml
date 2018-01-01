@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.epiclen.com/about/</loc>
+    <lastmod>2018-01-01T20:47:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.epiclen.com/post/hello_2018/</loc>
+    <lastmod>2018-01-01T00:20:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.epiclen.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.epiclen.com/categories/edward/</loc>
+    <lastmod>2018-01-01T00:20:18+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.epiclen.com/post/</loc>
+    <lastmod>2018-01-01T00:20:18+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.epiclen.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.epiclen.com/</loc>
+    <lastmod>2018-01-01T20:47:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
